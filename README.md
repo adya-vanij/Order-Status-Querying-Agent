@@ -1,6 +1,9 @@
 <h1>Order Status Querying Agent</h1>
 <h2>Retail/E-commerce Sector</h2>
 An intelligent order status management solution that integrates with Unicommerce or other OMS (Order Management System) / CMS (Content Management System) platforms to provide real-time order dispatch details across multiple customer communication channels (WhatsApp, email, phone). The agent automates status checks, handles reshipment requests, and coordinates with internal teams for order fulfillment.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/M5ldQxMpbLQ/0.jpg)](https://www.youtube.com/watch?v=M5ldQxMpbLQ)
+
 <h2>Problem Statement</h2>
 Customer support teams face challenges in providing real-time order status updates, leading to delayed responses and customer dissatisfaction. Manual coordination between support, operations, and logistics teams for handling order statuses, especially for pending shipments and RTO cases, creates operational inefficiencies and increases resolution time.
 <h2>Solution Statement</h2>
